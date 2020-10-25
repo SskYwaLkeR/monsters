@@ -1,4 +1,4 @@
-This app is hosted [live here](https://flamboyant-perlman-850de2.netlify.app/)
+This app is hosted [live here](https://monster-app.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
